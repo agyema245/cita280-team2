@@ -1,2 +1,2 @@
-# cita280-team3
-this is the repo for team 3
+# cita280-team2
+this is the repo for team 2
